@@ -2,7 +2,7 @@
   "name": "my-profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://atul-kumar-singh.github.io",
+  "homepage": "https://atul-kumar-singh.github.io/atul-kumar-singh.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
